@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Anonymous Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/anon.eot);
+  src: local('Anonymous Pro'), local('AnonymousPro'), url(../fonts/anon.eot) format('embedded-opentype'), url(../fonts/anon.woff) format('woff');
+}
+@font-face {
+  font-family: 'Droid Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/droidsans.eot);
+  src: local('Droid Sans'), local('DroidSans'), url(../fonts/droidsans.eot) format('embedded-opentype'), url(../fonts/droidsans.woff) format('woff');
+}

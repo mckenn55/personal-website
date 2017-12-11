@@ -1,0 +1,70 @@
+body {
+font-family: 'Open Sans',sans-serif!important;
+}
+
+.resume-title {
+color:white;
+}
+.resume-company {
+font-style:italic;
+  font-size:0.9em;
+}
+.resume-date {
+  font-size:0.9em;
+}
+.resume-city {
+font-style:italic;
+  font-size:0.9em;
+}
+.resume-section-title {
+color:white;
+  font-size:1.25em;
+  display:inline-block;
+  margin-bottom:5px;
+}
+.resume-section {
+margin-left:20px;
+}
+.resume-header {
+  text-align:center;
+  border-bottom:1px solid #777;
+  font-size:0.9em;
+}
+.resume-name {
+color:white;
+font-size:2em;
+}
+.under-construction{
+  text-align:center;
+  color:white;
+  font-size:2em;
+}
+.center-this-block {
+margin:0 auto;
+text-align:center;
+}
+.img-center {margin:0 auto;}
+
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+body > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+#footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+
+.content-spacer {
+padding-top: 60px;
+}
